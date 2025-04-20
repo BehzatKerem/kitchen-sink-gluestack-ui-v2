@@ -26,7 +26,7 @@ const ProgressDemo = () => {
               <ProgressFilledTrack />
             </Progress>
             <Text size="sm" className="text-typography-800">
-              40% complete..
+              40% complete.. 
             </Text>
           </VStack>
         </Center>
